@@ -8,7 +8,7 @@ ________________________________________
     •	Delete contact: Remove a contact from the list.
     •	Search contact: Find a contact by name.
     •	Clear screen: After each action, the screen is cleared to keep it clean.
-    ________________________________________
+________________________________________
 🛠️ Requirements
 •	Python 3.x (compatible with any ve  rsion of Python 3.x)
 ________________________________________
